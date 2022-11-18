@@ -1,1 +1,2 @@
-Putro Awu Semaradanu : G.241.21.0010 : SEMARANG
+Mata Kuliah : Open Source System
+Catatan : Praktikum dengan menggunakan GIT
